@@ -1,0 +1,16 @@
+Apple
+105
+Apricot
+101
+Banana
+105
+Peach
+96
+Plum
+91
+Cherries
+103
+Kiwi
+93
+Mango
+107

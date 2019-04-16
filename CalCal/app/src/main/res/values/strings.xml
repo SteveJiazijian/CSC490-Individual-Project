@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">CalCal</string>
+
+    <string-array name="catName">
+        <item>    </item>
+        <item>Apple</item>
+        <item>Apricot</item>
+        <item>Banana</item>
+        <item>Peach</item>
+        <item>Plum</item>
+        <item>Cherry</item>
+        <item>Kiwi</item>
+        <item>Mango</item>
+        <item>Chicken</item>
+        <item>Beef</item>
+        <item>Pork</item>
+        <item>Tomato</item>
+        <item>Pepper</item>
+        <item>Lemon</item>
+        <item>Duck</item>
+        <item>Noodle</item>
+        <item>Water</item>
+        <item>RootBeer</item>
+        <item>Cola</item>
+        <item>Soda</item>
+        <item>Tea</item>
+    </string-array>
+
+    <string-array name="fruitName">
+
+        <item>Apple</item>
+        <item>Apricot</item>
+        <item>Banana</item>
+        <item>Peach</item>
+        <item>Plum</item>
+        <item>Cherry</item>
+        <item>Kiwi</item>
+        <item>Mango</item>
+    </string-array>
+
+    <string-array name="foodName">
+        <item>    </item>
+        <item>Chicken</item>
+        <item>Beef</item>
+        <item>Pork</item>
+        <item>Tomato</item>
+        <item>Pepper</item>
+        <item>Lemon</item>
+        <item>Duck</item>
+        <item>Noodle</item>
+    </string-array>
+
+    <string-array name="drinkName">
+        <item>    </item>
+        <item>Water</item>
+        <item>RootBeer</item>
+        <item>Cola</item>
+        <item>Soda</item>
+        <item>Tea</item>
+    </string-array>
+</resources>
